@@ -29,7 +29,7 @@ Step 4: Go to the Tool Directory where u clone it
 >cd QR-Code-Generator  
 
 Step 5: After Completing the process now u can run script  
->python3 generator.py  
+>python3 generate.py  
 
 ## 💡 Tips!  
 - Ensure you enter a **valid URL** (starting with `http://` or `https://`).  
